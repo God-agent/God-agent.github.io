@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zd&#39;Blog</title>
+  
+  <subtitle>欢迎进站</subtitle>
+  <link href="https://god-agent.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://god-agent.github.io/"/>
+  <updated>2025-03-08T09:27:03.164Z</updated>
+  <id>https://god-agent.github.io/</id>
+  
+  <author>
+    <name>张笋</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://god-agent.github.io/2025/03/09/1/"/>
+    <id>https://god-agent.github.io/2025/03/09/1/</id>
+    <published>2025-03-09T15:00:03.976Z</published>
+    <updated>2025-03-08T09:27:03.164Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好</title>
+    <link href="https://god-agent.github.io/2025/03/09/%E4%BD%BF%E7%94%A8MarkDown%E5%86%99Hexo%E6%96%87%E7%AB%A0/"/>
+    <id>https://god-agent.github.io/2025/03/09/%E4%BD%BF%E7%94%A8MarkDown%E5%86%99Hexo%E6%96%87%E7%AB%A0/</id>
+    <published>2025-03-09T15:00:03.972Z</published>
+    <updated>2025-03-08T09:27:02.731Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;hello&quot;&gt;&lt;a href=&quot;#hello&quot; class=&quot;headerlink&quot; title=&quot;hello&quot;&gt;&lt;/a&gt;hello&lt;/h3&gt;&lt;p&gt;欢迎来到&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="学习" scheme="https://god-agent.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="hexo" scheme="https://god-agent.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://god-agent.github.io/2025/03/09/hello-world/"/>
+    <id>https://god-agent.github.io/2025/03/09/hello-world/</id>
+    <published>2025-03-09T14:35:35.921Z</published>
+    <updated>2025-03-09T14:35:35.921Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
